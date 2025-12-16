@@ -14,3 +14,4 @@ Linkdr - A working prototype that turns a recruiter’s plain-English hiring req
 Currently my passion projects are
 - Creating a Discord Bot
 - Building my resume on github.io
+- Build a front end for my portfolio
