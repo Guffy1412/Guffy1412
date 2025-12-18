@@ -11,6 +11,7 @@ Swipe Travel App - A travel application that will give you suggestions on destin
 Linkdr - A working prototype that turns a recruiter’s plain-English hiring request into a ranked shortlist, using constraint-aware filtering and semantic search.
 
 
+
 Currently my passion projects are
 - Creating a Discord Bot
 - Building my resume on github.io
